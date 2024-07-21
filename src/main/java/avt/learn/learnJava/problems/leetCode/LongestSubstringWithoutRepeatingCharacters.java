@@ -1,4 +1,4 @@
-package src.main.java.learnjava.leetCode;
+package avt.learn.learnJava.problems.leetCode;
 import java.util.HashSet;
 import java.util.Set;
 

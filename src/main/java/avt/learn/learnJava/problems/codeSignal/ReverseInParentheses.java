@@ -1,3 +1,5 @@
+package avt.learn.learnJava.problems.codeSignal;
+
 import java.util.Arrays;
 import java.util.stream.Stream;
 

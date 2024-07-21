@@ -1,4 +1,4 @@
-package src.main.java.learnjava.codeSignal;
+package avt.learn.learnJava.problems.codeSignal;
 public class CenturyFromYear {
 
     // Given a year, return the century it is in. The first century spans from the

@@ -1,4 +1,4 @@
-package src.main.java.learnjava.codeSignal;
+package avt.learn.learnJava.problems.codeSignal;
 public class MatrixElementsSum {
 
     // After becoming famous, the CodeBots decided to move into a new building

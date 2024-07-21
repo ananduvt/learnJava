@@ -1,4 +1,4 @@
-package src.main.java.learnjava.codeSignal;
+package avt.learn.learnJava.problems.codeSignal;
 public class ShapeArea {
 
     // Below we will define an n-interesting polygon. Your task is to find the area

@@ -1,5 +1,4 @@
-package src.main.java.learnjava.codeSignal;
-import java.util.Arrays;
+package avt.learn.learnJava.problems.codeSignal;
 import java.util.stream.Stream;
 
 public class AllLongestStrings {

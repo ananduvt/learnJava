@@ -1,5 +1,5 @@
-package src.main.java.learnjava.codeSignal;
-public class almostIncreasingSequence {
+package avt.learn.learnJava.problems.codeSignal;
+public class AlmostIncreasingSequence {
 
     // Given a sequence of integers as an array, determine whether it is possible to
     // obtain a strictly increasing sequence by removing no more than one element
@@ -25,7 +25,7 @@ public class almostIncreasingSequence {
     // 3].
 
     public static void main(String[] args) {
-        System.out.println(new almostIncreasingSequence().solution(new int[] { 1, 3, 2, 1 }));
+        System.out.println(new AlmostIncreasingSequence().solution(new int[] { 1, 3, 2, 1 }));
     }
 
     boolean solution(int[] sequence) {

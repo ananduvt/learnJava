@@ -1,4 +1,4 @@
-package avt.learn.learnJava.codeSignal;
+package avt.learn.learnJava.problems.codeSignal;
 
 import java.util.stream.Stream;
 

@@ -1,4 +1,4 @@
-package src.main.java.learnjava.leetCode;
+package avt.learn.learnJava.problems.leetCode;
 public class AddTwoNumbers {
 
     public static void main(String[] args) {

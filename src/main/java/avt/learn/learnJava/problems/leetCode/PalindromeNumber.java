@@ -1,4 +1,4 @@
-package src.main.java.learnjava.leetCode;
+package avt.learn.learnJava.problems.leetCode;
 
 // Given an integer x, return true if x is a 
 // palindrome
