@@ -1,4 +1,4 @@
-package avt.learn.challenge.problems.leetcode;
+package avt.learn.challenge.problem.leetcode;
 import java.util.HashSet;
 import java.util.Set;
 

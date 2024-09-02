@@ -1,4 +1,4 @@
-package avt.learn.challenge.problems.codesignal;
+package avt.learn.challenge.problem.codesignal;
 public class AlmostIncreasingSequence {
 
     // Given a sequence of integers as an array, determine whether it is possible to

@@ -1,7 +1,6 @@
-package avt.learn.challenge.problems.codesignal;
+package avt.learn.challenge.problem.codesignal;
 
 import java.util.Arrays;
-import java.util.stream.Stream;
 
 public class SortbyHeight {
 

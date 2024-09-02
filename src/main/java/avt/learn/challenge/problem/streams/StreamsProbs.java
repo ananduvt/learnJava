@@ -1,4 +1,4 @@
-package avt.learn.challenge.problems.streams;
+package avt.learn.challenge.problem.streams;
 
 import java.io.IOException;
 import java.nio.file.Files;

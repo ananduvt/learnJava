@@ -1,4 +1,4 @@
-package avt.learn.challenge.problems.codesignal;
+package avt.learn.challenge.problem.codesignal;
 public class MatrixElementsSum {
 
     // After becoming famous, the CodeBots decided to move into a new building

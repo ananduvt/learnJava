@@ -1,4 +1,4 @@
-package avt.learn.challenge.problems.leetcode;
+package avt.learn.challenge.problem.leetcode;
 
 // Given an integer x, return true if x is a 
 // palindrome

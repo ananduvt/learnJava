@@ -1,4 +1,4 @@
-package avt.learn.challenge.problems.codesignal;
+package avt.learn.challenge.problem.codesignal;
 public class ShapeArea {
 
     // Below we will define an n-interesting polygon. Your task is to find the area

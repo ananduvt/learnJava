@@ -1,4 +1,4 @@
-package avt.learn.challenge.problems.codesignal;
+package avt.learn.challenge.problem.codesignal;
 public class CenturyFromYear {
 
     // Given a year, return the century it is in. The first century spans from the

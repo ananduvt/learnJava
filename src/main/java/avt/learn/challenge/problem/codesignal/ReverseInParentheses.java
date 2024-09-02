@@ -1,7 +1,4 @@
-package avt.learn.challenge.problems.codesignal;
-
-import java.util.Arrays;
-import java.util.stream.Stream;
+package avt.learn.challenge.problem.codesignal;
 
 public class ReverseInParentheses {
 
